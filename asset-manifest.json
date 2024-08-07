@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GuessLetter/static/css/main.e6c13ad2.css",
-    "main.js": "/GuessLetter/static/js/main.05808261.js",
+    "main.js": "/GuessLetter/static/js/main.2a1b0b21.js",
     "static/js/453.052fe171.chunk.js": "/GuessLetter/static/js/453.052fe171.chunk.js",
     "index.html": "/GuessLetter/index.html",
     "main.e6c13ad2.css.map": "/GuessLetter/static/css/main.e6c13ad2.css.map",
-    "main.05808261.js.map": "/GuessLetter/static/js/main.05808261.js.map",
+    "main.2a1b0b21.js.map": "/GuessLetter/static/js/main.2a1b0b21.js.map",
     "453.052fe171.chunk.js.map": "/GuessLetter/static/js/453.052fe171.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05808261.js"
+    "static/js/main.2a1b0b21.js"
   ]
 }
